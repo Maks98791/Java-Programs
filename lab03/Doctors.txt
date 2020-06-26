@@ -1,0 +1,6 @@
+Piotr;Michalak;pediatra
+Kamil;Nowak;chirurg
+Marcin;Taterka;laryngolog
+Daniel;Tarnowski;okulista
+Marcin;Wachowski;neurolog
+
